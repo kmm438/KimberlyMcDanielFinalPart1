@@ -1,6 +1,10 @@
 # Final Project Part 1
 Part 1 of the final project turn in assignment. 
 
+
+## Word doc with screenshots
+Final Project Word doc available in the root of this folder. (See Above!)
+
 ## Screenshots 
 
 A: Databases running in Pycharm
